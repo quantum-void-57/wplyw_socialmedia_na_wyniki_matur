@@ -17,19 +17,19 @@ Analiza została przeprowadzona przy użyciu **Python (pandas, matplotlib, seabo
 
 ## 📂 Struktura plików
 
-Analiza socialmedia/
-    │── 📁 data/
-        │── Analiza trendu social_media_NASK.png
-        │── podgląd_danych.png
-        │── srednie_wyniki_egzaminu_maturalnego.csv
-        │── wszystkie.png
-    │── 📁 sql\powerbi_screenshots/
-        │── 1.png - 12.png # Kolejne etapy analizy i raportów Power BI
-    │── **analia_wpływu_socialmedia.ipynb** # Jupyter Notebook z analizą w Python
-    │── matura_analysis.db # Baza danych SQLite z wynikami matur
-    │── SQL.ipynb # Notebook SQL zawierający zapytania do MySQL
-    │── README.md # Dokumentacja projektu
-    |-- requirements.txt # zależności
+Analiza socialmedia/  
+    │── 📁 data/  
+        │── Analiza trendu social_media_NASK.png  
+        │── podgląd_danych.png    
+        │── srednie_wyniki_egzaminu_maturalnego.csv  
+        │── wszystkie.png  
+    │── 📁 sql\powerbi_screenshots/  
+        │── 1.png - 12.png # Kolejne etapy analizy i raportów Power BI  
+    │── **analia_wpływu_socialmedia.ipynb** # Jupyter Notebook z analizą w Python  
+    │── matura_analysis.db # Baza danych SQLite z wynikami matur  
+    │── SQL.ipynb # Notebook SQL zawierający zapytania do MySQL  
+    │── README.md # Dokumentacja projektu  
+    |-- requirements.txt # zależności  
     |-- ANALIZA.pdf # **OPIS, ANALIZA ORAZ WNIOSKI W FORMACIE PDF**
 
 ---
