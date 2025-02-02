@@ -4,7 +4,7 @@
 ![Analiza danych](sql/powerbi_screenshots/7.png)
 
 
-## 📌 Opis projektu
+## Opis projektu
 
 Celem projektu jest analiza potencjalnego wpływu czasu spędzanego przez młodzież w mediach społecznościowych na wyniki egzaminów maturalnych w latach 2015-2022. Wykorzystano dane dotyczące wyników matur oraz raporty NASK na temat aktywności młodzieży w internecie.
 
