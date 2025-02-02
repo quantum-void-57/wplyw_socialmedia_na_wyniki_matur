@@ -11,7 +11,7 @@ Celem projektu jest analiza potencjalnego wpływu czasu spędzanego przez młodz
 Analiza została przeprowadzona przy użyciu **Python (pandas, matplotlib, seaborn, scipy)**, **MySQL**, a finalne wizualizacje wykonano w **Power BI**.
 
 
-![Analiza danych](data/Analiza%20trendu%20social%2_media%20NASK.png)
+![Analiza danych](data/Analiza%20trendu%20social_media%20NASK.png)
 
 ---
 
